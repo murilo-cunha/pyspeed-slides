@@ -1,0 +1,19 @@
+{
+  "name": "pyperf",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.16",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "sass": "^1.62.1",
+    "slidev-theme-penguin": "^1.7.1"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.29"
+  }
+}
