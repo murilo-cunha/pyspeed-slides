@@ -30,7 +30,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: presenter
-presenterImage: './static/pic.png'
+presenterImage: './static/pic-blur.png'
 ---
 
 # About me
@@ -359,6 +359,13 @@ media: https://media.giphy.com/media/XenWVVdSzaxLW/giphy.gif
 | mypyc       | 108.36s | 0.934    |
 | pyo3        | 4.93s   | 0.042    |
 | mojo*       | ??      | ??       |
+
+---
+
+# Resources
+
+- Source code: [github.com/murilo-cunha/pyspeed/](https://github.com/murilo-cunha/pyspeed)
+- Slides: [github.com/murilo-cunha/pyspeed-slides/](https://github.com/murilo-cunha/pyspeed-slides)
 
 ---
 layout: new-section
