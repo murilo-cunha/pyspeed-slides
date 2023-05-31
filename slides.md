@@ -9,7 +9,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## The (incomplete) story about Python's performance
+  ## Python's performance and what can we do about it
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -285,6 +285,11 @@ layout: two-cols
 - Write code in Rust
 - Create bindings with PyO3 (really easy with Maturin!)
 - Entrypoint of the code is in Python
+- Getting more popular in Python's ecosystem
+  - [Pydantic V2](https://github.com/pydantic/pydantic-core)
+  - [Huggingface Tokenizers](https://github.com/huggingface/tokenizers)
+  - [Polars](https://github.com/pola-rs/polars)
+  - ...
 
 ::right::
 
