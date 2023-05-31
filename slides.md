@@ -87,7 +87,7 @@ layout: two-cols
   - Track performance using `time` module
 
 <center>
-  <img src="static/triangles.png" style="height:100px"/>
+  <img src="/triangles.png" style="height:100px"/>
 </center>
 
 ::right::
@@ -134,7 +134,7 @@ def calc_triangles(graph: Graph) -> int:
 <center>
   <div style="width:550px;">
     <the-console >
-      <img src="static/py39.gif">
+      <img src="/py39.gif">
     </the-console>
   </div>
 </center>
@@ -163,7 +163,7 @@ hideInToc: true
 <center>
   <div style="width:600px;">
     <the-console >
-      <img src="static/py311-demo.gif">
+      <img src="/py311-demo.gif">
     </the-console>
   </div>
 </center>
@@ -179,7 +179,7 @@ hideInToc: true
 <center>
   <div style="width:600px;">
     <the-console >
-      <img src="static/py311.gif">
+      <img src="/py311.gif">
     </the-console>
   </div>
 </center>
@@ -205,7 +205,7 @@ hideInToc: true
 <center>
   <div style="width:600px;">
     <the-console >
-      <img src="static/pypy.gif">
+      <img src="/pypy.gif">
     </the-console>
   </div>
 </center>
@@ -236,7 +236,7 @@ hideInToc: true
 <center>
   <div style="width:550px;">
     <the-console >
-      <img src="static/cython.gif">
+      <img src="/cython.gif">
     </the-console>
   </div>
 </center>
@@ -268,7 +268,7 @@ hideInToc: true
 <center>
   <div style="width:550px;">
     <the-console >
-      <img src="static/mypyc.gif">
+      <img src="/mypyc.gif">
     </the-console>
   </div>
 </center>
@@ -319,7 +319,7 @@ hideInToc: true
 <center>
   <div style="width:550px;">
     <the-console >
-      <img src="static/pyo3.gif">
+      <img src="/pyo3.gif">
     </the-console>
   </div>
 </center>
