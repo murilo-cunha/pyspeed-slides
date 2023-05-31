@@ -39,7 +39,7 @@ presenterImage: './static/pic-blur.png'
 - 🇧🇷 Brazilian
 - 🤓 B.Sc. in Mechanical Engineering @PNW
 - 👨‍🎓 M.Sc. in Artificial Intelligence @KUL
-- ☁️ GCP - (Data &) ML Engineer
+- ☁️ GCP - Data & ML Engineer
 - ☁️ AWS Certified - Machine Learning
 - ☁️ Hashicorp Certified - Terraform
 - ☁️ Astronomer Certified - DAG Authoring & Airflow
