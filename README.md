@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Python speedup slides
 
-To start the slide show:
+> Investigating and comparing Python's performance speedup alternatives (slides)
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+Accompanying slides to [`pyspeed/` repo](https://github.com/murilo-cunha/pyspeed)
