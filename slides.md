@@ -293,7 +293,7 @@ layout: two-cols
 
 ::right::
 
-```rs
+```rs{all|9-13|15-19|all}
 fn calc_triangles(graph: Graph) -> PyResult<u32> {
     let mut num_triangles = 0;
     
@@ -358,7 +358,7 @@ media: https://media.giphy.com/media/XenWVVdSzaxLW/giphy.gif
 | cython      | 115.52s | 0.996    |
 | mypyc       | 108.36s | 0.934    |
 | pyo3        | 4.93s   | 0.042    |
-| mojo*       | ??      | ??       |
+| mojo*       | ???     | ???      |
 
 ---
 
