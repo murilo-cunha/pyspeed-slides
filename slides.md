@@ -336,16 +336,15 @@ media: https://media.giphy.com/media/XenWVVdSzaxLW/giphy.gif
 
 # Mojo 🔥
 
-> Oh yeah
-
-- Very early stages
-  - Could not compare on use case 😢
+- Very early stages & active development
+- Could not compare on use case 😢
 - Compiled
 - Superset of Python (or intends to eventually be)
-- Under development
 - Not open source yet (as of June, 2023)
 - Mix high and low level (+ different syntaxes)
-- [Available upon request](https://playground.modular.com/)
+- [From creator of `swift`](https://www.modular.com/team/chris-lattner)
+- [Endorsed by Jeremy Howard](https://www.fast.ai/posts/2023-05-03-mojo-launch.html) (from [fast.ai](https://www.fast.ai/))
+- [Only upon request](https://playground.modular.com/)
 
 ---
 
