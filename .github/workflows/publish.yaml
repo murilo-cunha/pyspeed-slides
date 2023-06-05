@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Build
-        run: yarn build --base {{ env.BASE }}
+        run: yarn build --base ${{ env.BASE }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
