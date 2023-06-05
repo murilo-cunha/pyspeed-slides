@@ -10,6 +10,7 @@
     "@slidev/cli": "^0.40.16",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.34.3",
     "sass": "^1.62.1",
     "slidev-theme-penguin": "^1.7.1"
   },
