@@ -29,6 +29,13 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+
+
+<the-console >
+  <RenderWhen context="main"><Asciinema src="./casts/py311-demo.cast" :playerProps="{speed: 4, rows: 17}"></Asciinema></RenderWhen>
+</the-console>
+
+---
 layout: presenter
 presenterImage: './static/pic-blur.png'
 ---
@@ -282,6 +289,8 @@ layout: two-cols
 
 #### Rust bindings
 
+<v-clicks depth=2>
+
 - Write code in Rust
 - Create bindings with PyO3 (really easy with Maturin!)
 - Entrypoint of the code is in Python
@@ -290,6 +299,8 @@ layout: two-cols
   - [Huggingface Tokenizers](https://github.com/huggingface/tokenizers)
   - [Polars](https://github.com/pola-rs/polars)
   - ...
+
+</v-clicks>
 
 ::right::
 
