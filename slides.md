@@ -30,9 +30,10 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
+# example
 
 <the-console >
-  <RenderWhen context="main"><Asciinema src="./casts/py311-demo.cast" :playerProps="{speed: 4, rows: 17}"></Asciinema></RenderWhen>
+  <RenderWhen context="main"><Asciinema src="./casts/py311-demo.cast" :playerProps="{speed: 4, rows: 13}"></Asciinema></RenderWhen>
 </the-console>
 
 ---
