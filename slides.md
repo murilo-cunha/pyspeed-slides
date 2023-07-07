@@ -28,17 +28,7 @@ Guilds Forum 31/05
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
----
 
-# example
-
-<the-console >
-  <RenderWhen context="main"><Asciinema src="./casts/py311-demo.cast" :playerProps="{speed: 4, rows: 13}"></Asciinema></RenderWhen>
-</the-console>
-
----
-layout: presenter
-presenterImage: './static/pic-blur.png'
 ---
 
 # About me
@@ -81,8 +71,7 @@ Here is another comment.
 
 <Toc />
 
----
-layout: two-cols
+
 ---
 
 # Background & Setup
@@ -147,8 +136,7 @@ def calc_triangles(graph: Graph) -> int:
   </div>
 </center>
 
----
-layout: two-cols
+
 ---
 # Python 3.11
 
@@ -156,11 +144,6 @@ layout: two-cols
 
 - Leverages from many ideas in the past
 - Optimizes code for operations that are called many times
-- [10-60% faster than Python 3.10](https://docs.python.org/3/whatsnew/3.11.html#summary-release-highlights)
-
-::right::
-
-<Tweet id="1603089763287826432" />
 
 ---
 hideInToc: true
@@ -219,8 +202,7 @@ hideInToc: true
 </center>
 
 ---
-layout: two-cols
----
+
 
 # Cython
 
@@ -249,8 +231,7 @@ hideInToc: true
   </div>
 </center>
 
----
-layout: two-cols
+
 ---
 
 # Mypyc
@@ -282,8 +263,7 @@ hideInToc: true
 </center>
 
 
----
-layout: two-cols
+
 ---
 
 # PyO3
@@ -341,9 +321,7 @@ hideInToc: true
   </div>
 </center>
 
----
-layout: text-image
-media: https://media.giphy.com/media/XenWVVdSzaxLW/giphy.gif
+
 ---
 
 # Mojo 🔥
@@ -380,7 +358,6 @@ media: https://media.giphy.com/media/XenWVVdSzaxLW/giphy.gif
 - Slides: [github.com/murilo-cunha/pyspeed-slides/](https://github.com/murilo-cunha/pyspeed-slides)
 
 ---
-layout: new-section
 hideInToc: true
 ---
 
